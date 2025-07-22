@@ -1,4 +1,4 @@
-# 🎧 Chinook BI Dashboard
+SQL-Powered Business Intelligence Dashboard Project
 
 This project uses the **Chinook music store database** to explore sales, customer behavior, and revenue trends using SQL and data visualization tools.
 
